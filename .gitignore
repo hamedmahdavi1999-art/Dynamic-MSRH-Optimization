@@ -212,6 +212,11 @@ tempCodeRunnerFile.py
 # Marimo
 marimo/_static/
 marimo/_lsp/
+
+# Proprietary Data Files
+*.xlsx
+*.csv
+*.txt
 __marimo__/
 
 # Streamlit
