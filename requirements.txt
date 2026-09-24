@@ -1,0 +1,4 @@
+docplex
+numpy
+pandas
+openpyxl
